@@ -21,7 +21,7 @@
       </div>
       <div class="navbar-menu">
         <div class="navbar-start">
-          <a class="navbar-item is-tab">ระบบแจ้งซ่อมออนไลน์</a>
+          <a class="navbar-item is-tab">ระบบแจ้งปัญหา</a>
         </div> <!-- end of .navbar-start -->
 
 
