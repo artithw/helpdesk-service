@@ -16980,6 +16980,7 @@ label.panel-block:hover {
 }
 
 .progress-wrapper .progress::-webkit-progress-value {
+  -webkit-transition: width 0.5s ease;
   transition: width 0.5s ease;
 }
 
