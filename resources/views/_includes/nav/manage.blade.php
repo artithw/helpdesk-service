@@ -37,11 +37,10 @@
           <a href="#" class="menu-list">ประเภทปัญหา</a>
         </li>
         <li>
-          <a class="has-submenu">Another Example</a>
-          <ul class="submenu">
-            <li><a href="#">Roles</a></li>
-            <li><a href="{{route('permissions.index')}}">Permissions</a></li>
-          </ul>
+          <a class="menu-list">ลำดับความสำคัญ</a>
+        </li>
+        <li>
+          <a class="menu-list">สถานะ</a>
         </li>
       </ul>
     </aside>
